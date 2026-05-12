@@ -10,3 +10,4 @@
 - React 19
 - TypeScript
 - Tailwind CSS
+- Vercel
