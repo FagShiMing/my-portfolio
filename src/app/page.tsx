@@ -17,16 +17,11 @@ export default function HomePage() {
 
             <div className="mt-8 space-y-6 text-lg leading-8 text-neutral-400">
               <p>
-                我是房石明，经济统计背景，正在转向 AI 应用开发方向。
-                目前重点关注 LLM 应用、RAG、Agent 工具调用、数据分析自动化和项目评估。
+                我是房石明，经济统计背景,大学期间对编程感兴趣，目前转向AI应用开发和全栈。
               </p>
               <p>
                 我正在构建 DataInsight-Agent：一个面向 CSV 数据分析的轻量级 Agent 系统。
                 它可以完成数据画像、缺失值分析、数值摘要、报告生成和数据问答。
-              </p>
-              <p>
-                我的目标是用项目证明自己能做一个能运行、能调工具、能处理数据、
-                能写报告、能做评估、能讲清架构的 AI 应用项目。
               </p>
             </div>
           </div>
