@@ -29,7 +29,7 @@ export default function BlogPage() {
                   <h2 className="text-xl font-bold text-white">{post.title}</h2>
                   <span className="ml-auto text-sm text-neutral-500">{post.date}</span>
                 </div>
-                <p className="mt-3 text-neutral-400">{post.description}</p>
+                <p className="mt-3 text-neutral-400">{post.summary}</p>
               </Link>
             ))}
           </div>
