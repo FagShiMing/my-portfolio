@@ -8,13 +8,4 @@ export const projects = [
     github: "https://github.com/你的GitHub用户名/datainsight-agent",
     demo: "",
   },
-  {
-    slug: "rag-knowledge-base",
-    name: "RAG Knowledge Base Demo",
-    description: "企业知识库问答 Demo，用于展示文档切分、向量检索、上下文拼接和回答生成流程。",
-    image: "/projects/rag-demo.png",
-    tags: ["RAG", "Embedding", "Vector DB", "LLM"],
-    github: "",
-    demo: "",
-  },
 ];
